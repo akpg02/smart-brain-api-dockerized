@@ -1,0 +1,1 @@
+hashed password in seed.sql file is "passworda"
